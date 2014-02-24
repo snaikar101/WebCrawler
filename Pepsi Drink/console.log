@@ -1,0 +1,176 @@
+2014-02-21 13:47:09,496 Downloads directory created
+2014-02-21 13:47:09,726 Copied: http://en.wikipedia.org/wiki/Pepsi  FileName: a5646a69c61e9ebe88b5aae9e7fd6e81Is Crawlable: True
+2014-02-21 13:47:10,625 Copied: http://www.pepsi.com/  FileName: b079436965e1a2934748c650ab819c1bIs Crawlable: True
+2014-02-21 13:47:12,111 Copied: http://www.pepsicobeveragefacts.com/  FileName: d5dfe72d4c354730af83d58303019e9bIs Crawlable: True
+2014-02-21 13:47:13,263 Copied: http://www.pepsico.com/Company/Global-Business-Units  FileName: 85b76973f1a9ea503b786d6663ba0a1fIs Crawlable: True
+2014-02-21 13:47:14,500 Copied: http://www.pepsistore.com/history.asp  FileName: 7e2001a7548fb9f6b4b4e1afdb26a54eIs Crawlable: True
+2014-02-21 13:47:15,443 Copied: http://www.pepsico.com/brands  FileName: 232f290cd8a2a86f15bef943195129c9Is Crawlable: True
+2014-02-21 13:47:15,908 Copied: http://www.sirpepsi.com/pepsi11.htm  FileName: 638c6e2828763041a2291b67470cd036Is Crawlable: True
+2014-02-21 13:47:17,069 Copied: http://www.pepsico.com/  FileName: 6ccbd4301f2c8711a945aa9df5bf4ab5Is Crawlable: True
+2014-02-21 13:47:18,190 Copied: http://www.youtube.com/watch?v=OnzhFtpRgsI  FileName: e99b3e35815b1d9304788b71ffa50b58Is Crawlable: True
+2014-02-21 13:47:18,796 Copied: http://www.pepsico.com/Company/Our-History  FileName: 2fcb29d346b11df03beb8aaf9813226bIs Crawlable: True
+2014-02-21 13:47:19,701 Copied: http://www.sirpepsi.com/index.htm :FileName: 96e9cd880f36c4bc4aa7114aac6b1490 :Is Crawlable: True :Score: 230
+2014-02-21 13:47:20,059 Copied: http://www.sirpepsi.com/personal.htm :FileName: fb728bc2c887bdd7bfe508a757b04e30 :Is Crawlable: True :Score: 212
+2014-02-21 13:47:20,062 The server couldn't fulfill the request for: mailto:sirpepsi@sirpepsi.com :Error: unknown url type: mailto
+2014-02-21 13:47:20,183 The server couldn't fulfill the request for: http://www.danangsignal.com :Error: [Errno 11001] getaddrinfo failed
+2014-02-21 13:47:20,536 Copied: http://www.sirpepsi.com/veteran.htm :FileName: 1f84e18c1d9afc0c9a9f7b39a27301a8 :Is Crawlable: True :Score: 108
+2014-02-21 13:47:21,776 Copied: http://www.sirpepsi.com/wyandotte.htm :FileName: e90a484be684f44564f579e7b002be85 :Is Crawlable: True :Score: 108
+2014-02-21 13:47:22,457 Copied: http://www.sirpepsi.com/hawaii :FileName: fde0093707651a3d7c4101e4fda2ac2e :Is Crawlable: True :Score: 0
+2014-02-21 13:47:24,259 Copied: http://www.pepsiworld.com/ :FileName: 992f99c0085ada04aa82df01c93903b5 :Is Crawlable: True :Score: 114
+2014-02-21 13:47:27,848 Copied: http://www.pepsipop.com/ :FileName: 371abf44ba1872ee61f7a70782baa1f1 :Is Crawlable: True :Score: 112
+2014-02-21 13:47:28,664 Copied: http://www.pepsistore.com/ :FileName: bb22e61a8d18691b9ae6dce342b08e6c :Is Crawlable: True :Score: 210
+2014-02-21 13:47:30,684 Copied: http://www.rocketboom.com :FileName: 281d5f9cf483ab12c4f3583724942f51 :Is Crawlable: True :Score: 0
+2014-02-21 13:47:56,451 The server couldn't fulfill the request for: http://www.bobandtom.com :Error: [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2014-02-21 13:47:57,013 Copied: http://www.blueman.com :FileName: 31131ff16a2acf615b0b4f94a3631224 :Is Crawlable: True :Score: 0
+2014-02-21 13:47:59,140 Copied: http://www.bluemanlibrary.com :FileName: f6595928bbb206d75441000d28e0a8c4 :Is Crawlable: True :Score: 0
+2014-02-21 13:48:00,729 Copied: http://www.blueman.com/ticketinfo/nyc.shtml :FileName: 0a79ed5a495a1412c56ee4e151d70b49 :Is Crawlable: True :Score: 102
+2014-02-21 13:48:01,880 Copied: http://www.blueman.com/ticketinfo/boston.shtml :FileName: 7c968f26140776a46d36a1ab6bf3b8b9 :Is Crawlable: True :Score: 0
+2014-02-21 13:48:02,779 Copied: http://www.blueman.com/ticketinfo/chicago.shtml :FileName: 415aa3c599bb9ee254751a052196e284 :Is Crawlable: True :Score: 101
+2014-02-21 13:48:04,381 Copied: http://www.blueman.com/ticketinfo/lasvegas.shtml :FileName: 3cd90729f8026309a06c6338e3ce99dc :Is Crawlable: True :Score: 104
+2014-02-21 13:48:05,059 Copied: http://www.sirpepsi.com/megargel.htm :FileName: f60f12cfa6aa173271f64cbba58f1b66 :Is Crawlable: True :Score: 126
+2014-02-21 13:48:06,750 Copied: http://www.sirpepsi.com/megargeltx.htm :FileName: f495b3c05a7e929884dbb336ff0f4e79 :Is Crawlable: True :Score: 110
+2014-02-21 13:48:07,342 Copied: http://www.sirpepsi.com/newbern.htm :FileName: db8666b534d410f60888a8f333bcb6e4 :Is Crawlable: True :Score: 115
+2014-02-21 13:48:08,805 Copied: http://www.sirpepsi.com/pepsi1.htm :FileName: b83f80caf5d105c171cba82f8ce0a763 :Is Crawlable: True :Score: 220
+2014-02-21 13:48:10,153 Copied: http://www.sirpepsi.com/pepsi10.htm :FileName: 94ba209362f01f53d038259f862a77ed :Is Crawlable: True :Score: 279
+2014-02-21 13:48:10,405 Copied: http://www.sirpepsi.com/phawaii.htm :FileName: f00808545e52748ec39638c9ead8fba1 :Is Crawlable: True :Score: 0
+2014-02-21 13:48:13,657 Copied: http://www.bluemanlibrary.com/ :FileName: d11db41234e6bab118040cad67b1289b :Is Crawlable: True :Score: 0
+2014-02-21 13:48:14,907 Copied: http://www.pepsico.com/Company :FileName: e939a6636406153504e45b07d8821a0a :Is Crawlable: True :Score: 111
+2014-02-21 13:48:17,187 Copied: http://www.pepsico.com/Careers :FileName: 38dc50cfac74fdabd463e81652837990 :Is Crawlable: True :Score: 110
+2014-02-21 13:48:17,752 Copied: http://www.pepsico.com/Company/Global-Brands :FileName: 90f98f17ff0a123255c8faaf993592e4 :Is Crawlable: True :Score: 212
+2014-02-21 13:48:18,648 Copied: http://www.pepsico.com/Company/Leadership :FileName: d7b8b8be166ea4bf6a414591f2cdd0db :Is Crawlable: True :Score: 537
+2014-02-21 13:48:19,140 Copied: http://www.pepsico.com/Company/Corporate-Governance :FileName: 5c35cf5228dcbf065d0b35d76bc609c3 :Is Crawlable: True :Score: 116
+2014-02-21 13:48:20,305 Copied: http://www.pepsico.com/Company/Policies :FileName: a403cd4d91c4a87966f316c7753b525e :Is Crawlable: True :Score: 188
+2014-02-21 13:48:21,096 Copied: http://www.pepsico.com/Company/Board-of-Directors-and-Committees :FileName: a0196545b5aff443b7318c2229bc7631 :Is Crawlable: True :Score: 108
+2014-02-21 13:48:22,470 Copied: http://www.pepsico.com/Company/Global-Code-Of-Conduct :FileName: d3122724bb0acfc812414b2f8888a36e :Is Crawlable: True :Score: 104
+2014-02-21 13:48:23,154 Copied: http://www.pepsico.com/Company/SpeakUp :FileName: a304464992ff99dc0515f545a9db608b :Is Crawlable: True :Score: 107
+2014-02-21 13:48:23,944 Copied: http://www.pepsico.com/Company/Awards_Recognition :FileName: 488f94726bb6dd9e56896e05e852c273 :Is Crawlable: True :Score: 228
+2014-02-21 13:48:24,618 Copied: http://www.pepsico.com/Purpose :FileName: 119f2889dae00e13396062810eeeab30 :Is Crawlable: True :Score: 108
+2014-02-21 13:48:26,809 The server couldn't fulfill the request for: mailto:sirpepsi@sirpepsi.com :Error: unknown url type: mailto
+2014-02-21 13:48:26,822 The server couldn't fulfill the request for: http://www.danangsignal.com :Error: [Errno 11001] getaddrinfo failed
+2014-02-21 13:49:07,467 The server couldn't fulfill the request for: http://www.bobandtom.com :Error: [Errno 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+2014-02-21 13:49:14,405 Copied: http://www.pepsistore.com/index.asp :FileName: 33d24e1920b4c207c1635f7b43f74f37 :Is Crawlable: True :Score: 210
+2014-02-21 13:49:15,575 Copied: http://www.pepsistore.com/visit.asp :FileName: a8527238d4cd81316d17683f135ad04f :Is Crawlable: True :Score: 0
+2014-02-21 13:49:21,197 Copied: http://www.pepsistore.com/products.asp :FileName: 14a7ef9f0c78f89d96b311690d041ffa :Is Crawlable: True :Score: 314
+2014-02-21 13:49:21,763 Copied: http://www.pepsistore.com/links.asp :FileName: c126049a62a1952111c6a5a92459f79a :Is Crawlable: True :Score: 104
+2014-02-21 13:49:22,367 Copied: http://www.pepsistore.com/sitemap.asp :FileName: 833c1267880fb562b7f8aa9329af7014 :Is Crawlable: True :Score: 0
+2014-02-21 13:49:25,107 Copied: http://www.twitter.com/PepsiStore :FileName: b5debcbc92a9a55eb4f939e7fc7fbfb4 :Is Crawlable: False :Score: 155
+2014-02-21 13:49:28,250 Copied: http://www.facebook.com/ThePepsiStore :FileName: 485ce0d353eb74b5ac365934e029394e :Is Crawlable: False :Score: 0
+2014-02-21 13:49:29,086 Copied: http://www.tradeideasinc.com :FileName: 6ed49ca0af1606fd432e19ae574e1e43 :Is Crawlable: True :Score: 0
+2014-02-21 13:49:32,579 Copied: http://www.pepsistore.com/categories.asp :FileName: a67ebbbb21893877d41a10ebb337d72a :Is Crawlable: True :Score: 104
+2014-02-21 13:49:33,703 Copied: http://www.pepsistore.com/proddetail.asp?prod=142 :FileName: 65b0e5909eab5456e8806d7d3ad1432a :Is Crawlable: True :Score: 109
+2014-02-21 13:49:35,053 Copied: http://www.pepsistore.com/proddetail.asp?prod=683 :FileName: 5a370589a94f397798bb71148d1a296b :Is Crawlable: True :Score: 107
+2014-02-21 13:49:36,782 Copied: http://www.pepsistore.com/proddetail.asp?prod=682 :FileName: 2c72ce41794b2bc0746a79eb8c49076c :Is Crawlable: True :Score: 107
+2014-02-21 13:49:38,243 Copied: http://www.pepsistore.com/proddetail.asp?prod=824 :FileName: e3f80023513a988c0dc02858abd055b7 :Is Crawlable: True :Score: 108
+2014-02-21 13:49:39,815 Copied: http://www.pepsistore.com/proddetail.asp?prod=191 :FileName: 809522fc1440384e114ed81570dc86b4 :Is Crawlable: True :Score: 108
+2014-02-21 13:49:41,158 Copied: http://www.pepsistore.com/proddetail.asp?prod=530 :FileName: df0ce66c03a90ef4b16b194daddd64eb :Is Crawlable: True :Score: 106
+2014-02-21 13:49:42,509 Copied: http://www.pepsistore.com/proddetail.asp?prod=197 :FileName: 1f310abfa087ea065a8bfcf669a80f80 :Is Crawlable: True :Score: 106
+2014-02-21 13:49:43,976 Copied: http://www.pepsistore.com/proddetail.asp?prod=664 :FileName: 8e9f73084a893d544a9ddefd31bcabee :Is Crawlable: True :Score: 109
+2014-02-21 13:49:45,772 Copied: http://www.pepsistore.com/proddetail.asp?prod=663 :FileName: 587a2b25848d93b7ae80d63833329a10 :Is Crawlable: True :Score: 107
+2014-02-21 13:49:46,898 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU563 :FileName: 45eff2f6ad3892923835f55fbe9feac1 :Is Crawlable: True :Score: 108
+2014-02-21 13:49:48,357 Copied: http://www.pepsistore.com/proddetail.asp?prod=258 :FileName: f676e7988ee767d8d15f0a920c7fb53d :Is Crawlable: True :Score: 108
+2014-02-21 13:49:50,148 Copied: http://www.pepsistore.com/proddetail.asp?prod=41 :FileName: 6d8b31ba564e0aeb2ada6060495cb875 :Is Crawlable: True :Score: 108
+2014-02-21 13:49:51,760 Copied: http://www.pepsistore.com/proddetail.asp?prod=412 :FileName: 009d1f96d66d8084d74692d8369e6e73 :Is Crawlable: True :Score: 108
+2014-02-21 13:49:53,483 Copied: http://www.pepsistore.com/proddetail.asp?prod=9101 :FileName: 34dd50317f195b98b332e0207ab9fa08 :Is Crawlable: True :Score: 105
+2014-02-21 13:49:55,523 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU48 :FileName: f59e05960f2d2b451fba6497d8106d7e :Is Crawlable: True :Score: 109
+2014-02-21 13:49:58,549 Copied: http://www.pepsistore.com/proddetail.asp?prod=802 :FileName: 848a4e53d4f6e116877a8f85be5123f8 :Is Crawlable: True :Score: 106
+2014-02-21 13:50:00,255 Copied: http://www.pepsistore.com/proddetail.asp?prod=37 :FileName: f1eab596e84d098471f64918de4ce038 :Is Crawlable: True :Score: 103
+2014-02-21 13:50:01,710 Copied: http://www.pepsistore.com/proddetail.asp?prod=749 :FileName: 21df76cb149a7c003428696d363147d7 :Is Crawlable: True :Score: 105
+2014-02-21 13:50:03,167 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU419 :FileName: a71d135bef9de7d2d88df2d1ff16633f :Is Crawlable: True :Score: 106
+2014-02-21 13:50:04,555 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU540 :FileName: b2386808b733f00565d33bfab6490292 :Is Crawlable: True :Score: 207
+2014-02-21 13:50:07,358 Copied: http://www.pepsistore.com/proddetail.asp?prod=836 :FileName: d840354bb913e13543bc871d400dc4a1 :Is Crawlable: True :Score: 108
+2014-02-21 13:50:09,148 Copied: http://www.pepsistore.com/proddetail.asp?prod=745 :FileName: 9cf10bb372d1b4de17cd6edc9eefc960 :Is Crawlable: True :Score: 105
+2014-02-21 13:50:12,838 Copied: http://www.pepsistore.com/proddetail.asp?prod=743 :FileName: 4c362f176ea12a62a37ea2fb2132e7f0 :Is Crawlable: True :Score: 104
+2014-02-21 13:50:15,522 Copied: http://www.pepsistore.com/proddetail.asp?prod=550 :FileName: afd0dfbbdf4da12b0cb173fa82cc2cbf :Is Crawlable: True :Score: 109
+2014-02-21 13:50:17,326 Copied: http://www.pepsistore.com/proddetail.asp?prod=441 :FileName: effeda27a12778d0e6054d571029ccfd :Is Crawlable: True :Score: 208
+2014-02-21 13:50:19,007 Copied: http://www.pepsistore.com/proddetail.asp?prod=736 :FileName: 8fdf24a575a9c66ca95ee0845722623d :Is Crawlable: True :Score: 208
+2014-02-21 13:50:20,247 Copied: http://www.pepsistore.com/proddetail.asp?prod=439 :FileName: 8496d311a4e2c084baff7b98107e6f11 :Is Crawlable: True :Score: 208
+2014-02-21 13:50:21,818 Copied: http://www.pepsistore.com/proddetail.asp?prod=438 :FileName: 2c09b45abc90abc3435deddc337b32d4 :Is Crawlable: True :Score: 208
+2014-02-21 13:50:23,309 Copied: http://www.pepsistore.com/proddetail.asp?prod=437 :FileName: 7809b7b060e974272b6acd61eb9ca9bf :Is Crawlable: True :Score: 205
+2014-02-21 13:50:24,684 Copied: http://www.pepsistore.com/proddetail.asp?prod=440 :FileName: 32ea96f6c087a9b73fd6042433190923 :Is Crawlable: True :Score: 208
+2014-02-21 13:50:26,397 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU187 :FileName: 66970ed5c15aafa2de5a902eda2e2a24 :Is Crawlable: True :Score: 106
+2014-02-21 13:50:28,299 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU186 :FileName: d4656b52da4dc78f8913099806f9b99c :Is Crawlable: True :Score: 106
+2014-02-21 13:50:29,796 Copied: http://www.pepsistore.com/proddetail.asp?prod=491 :FileName: 8782e21695e0e355ec42b6d5216be597 :Is Crawlable: True :Score: 104
+2014-02-21 13:50:32,042 Copied: http://www.pepsistore.com/proddetail.asp?prod=828 :FileName: 18b7b5585d712fec15d9d515d1f99a23 :Is Crawlable: True :Score: 105
+2014-02-21 13:50:34,280 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU81 :FileName: ca805a52f9d8d1abbbd6527d3dcd2576 :Is Crawlable: True :Score: 106
+2014-02-21 13:50:35,966 Copied: http://www.pepsistore.com/proddetail.asp?prod=304 :FileName: e26fd894b1b8aa54ac1c4ea4a8579c5a :Is Crawlable: True :Score: 103
+2014-02-21 13:50:37,674 Copied: http://www.pepsistore.com/proddetail.asp?prod=301 :FileName: 32c1d129d517014aa77c08c7742cfea8 :Is Crawlable: True :Score: 103
+2014-02-21 13:50:39,355 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU389 :FileName: 4a9866fe375b96cdb6f7ef0e355beff7 :Is Crawlable: True :Score: 108
+2014-02-21 13:50:40,946 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU387 :FileName: b488556387f2c26ae336f4973c1888db :Is Crawlable: True :Score: 106
+2014-02-21 13:50:45,772 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU458 :FileName: b7a9abe47217546c4123691165340c11 :Is Crawlable: True :Score: 106
+2014-02-21 13:50:47,457 Copied: http://www.pepsistore.com/proddetail.asp?prod=1708 :FileName: 215b465026253a98af29cccdbfc8adc7 :Is Crawlable: True :Score: 106
+2014-02-21 13:50:48,913 Copied: http://www.pepsistore.com/proddetail.asp?prod=1704 :FileName: dfacf8b4f255eebf9690e4623ccd754e :Is Crawlable: True :Score: 106
+2014-02-21 13:50:51,267 Copied: http://www.pepsistore.com/proddetail.asp?prod=838 :FileName: 5f11af8d702e5279917ad0922edc8c5f :Is Crawlable: True :Score: 107
+2014-02-21 13:50:52,523 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU114 :FileName: 939c82ceb5c642c8f67bd04138ad58e9 :Is Crawlable: True :Score: 103
+2014-02-21 13:50:54,447 Copied: http://www.pepsistore.com/proddetail.asp?prod=656 :FileName: 41ef2772af96cefbd105d7de60a590c7 :Is Crawlable: True :Score: 106
+2014-02-21 13:50:55,503 Copied: http://www.pepsistore.com/proddetail.asp?prod=654 :FileName: 47f1b0433f4b51e6c0163748164842f2 :Is Crawlable: True :Score: 103
+2014-02-21 13:50:56,851 Copied: http://www.pepsistore.com/proddetail.asp?prod=640 :FileName: 9a57ddcfc987d144f220c26bd21f3e34 :Is Crawlable: True :Score: 103
+2014-02-21 13:50:57,984 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU342 :FileName: 721bd951fd88402442f4eef1105229b1 :Is Crawlable: True :Score: 106
+2014-02-21 13:50:59,114 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU4403 :FileName: 6b12b1e43b744219c83eac411516cd99 :Is Crawlable: True :Score: 106
+2014-02-21 13:51:00,796 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU56b :FileName: 3042b4511bcf00f0e805c5187806fefa :Is Crawlable: True :Score: 106
+2014-02-21 13:51:02,413 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU166-B :FileName: 78c530c9c42adbfef9aa0ddb29a09582 :Is Crawlable: True :Score: 106
+2014-02-21 13:51:04,203 Copied: http://www.pepsistore.com/proddetail.asp?prod=190 :FileName: 6d091340589cca6fd9cb8789f18ba6d8 :Is Crawlable: True :Score: 104
+2014-02-21 13:51:05,937 Copied: http://www.pepsistore.com/proddetail.asp?prod=382 :FileName: a9c3ef16643ea71a8bc121bb8a29c8ed :Is Crawlable: True :Score: 101
+2014-02-21 13:51:07,285 Copied: http://www.pepsistore.com/proddetail.asp?prod=plu-659 :FileName: 17ef94810e42c4ced2e625681f3d8d2e :Is Crawlable: True :Score: 206
+2014-02-21 13:51:08,855 Copied: http://www.pepsistore.com/proddetail.asp?prod=803 :FileName: b9d62c4033b85537585a62cf7717e282 :Is Crawlable: True :Score: 105
+2014-02-21 13:51:10,421 Copied: http://www.pepsistore.com/proddetail.asp?prod=706 :FileName: 30f463aeb4b241044a0bb03c0dce4daf :Is Crawlable: True :Score: 101
+2014-02-21 13:51:11,677 Copied: http://www.pepsistore.com/proddetail.asp?prod=555 :FileName: 5b8ce0ebd729c8aba26cd2d87c10a19f :Is Crawlable: True :Score: 104
+2014-02-21 13:51:13,924 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU295 :FileName: 3252f0d0027a2f27cf1ddce2605dd344 :Is Crawlable: True :Score: 105
+2014-02-21 13:51:16,058 Copied: http://www.pepsistore.com/proddetail.asp?prod=290 :FileName: a8eedbdf4e4c3723d828389f90aa2680 :Is Crawlable: True :Score: 103
+2014-02-21 13:51:17,401 Copied: http://www.pepsistore.com/proddetail.asp?prod=397 :FileName: 2fedfd4193a4ae3af767161277f61a77 :Is Crawlable: True :Score: 108
+2014-02-21 13:51:18,862 Copied: http://www.pepsistore.com/proddetail.asp?prod=292 :FileName: ed96f6ad3984c5f3c445c91c58e71e2a :Is Crawlable: True :Score: 107
+2014-02-21 13:51:20,322 Copied: http://www.pepsistore.com/proddetail.asp?prod=672 :FileName: 9a6ada49649eb3e1ffcb60e8031eeca5 :Is Crawlable: True :Score: 108
+2014-02-21 13:51:21,790 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU171 :FileName: ed41e51268aedce06ab35686aacb01d8 :Is Crawlable: True :Score: 109
+2014-02-21 13:51:23,476 Copied: http://www.pepsistore.com/proddetail.asp?prod=1703 :FileName: 7785153f72be829a890bc6f4d830a5cf :Is Crawlable: True :Score: 109
+2014-02-21 13:51:26,384 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU23 :FileName: 39cb0eba6f8cf93c243b9fbca6965fbe :Is Crawlable: True :Score: 107
+2014-02-21 13:51:27,736 Copied: http://www.pepsistore.com/proddetail.asp?prod=1707 :FileName: 3e35f230b165f97078382a0200be5690 :Is Crawlable: True :Score: 109
+2014-02-21 13:51:29,424 Copied: http://www.pepsistore.com/proddetail.asp?prod=350 :FileName: f64d2bc9c49c2074ea4578ef7db256ef :Is Crawlable: True :Score: 108
+2014-02-21 13:51:32,227 Copied: http://www.pepsistore.com/proddetail.asp?prod=105 :FileName: f4f3d083b5194df83a5d866d44327fd6 :Is Crawlable: True :Score: 108
+2014-02-21 13:51:33,707 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU86 :FileName: 42f737d38a5a4a5516f9273ad7e88523 :Is Crawlable: True :Score: 106
+2014-02-21 13:51:35,168 Copied: http://www.pepsistore.com/proddetail.asp?prod=188 :FileName: b6066723182e8bbc81ff34aa401d54a1 :Is Crawlable: True :Score: 107
+2014-02-21 13:51:36,440 Copied: http://www.pepsistore.com/proddetail.asp?prod=1702 :FileName: 049f0988761c6d0a85ce307bd52e041c :Is Crawlable: True :Score: 109
+2014-02-21 13:51:38,006 Copied: http://www.pepsistore.com/proddetail.asp?prod=1701 :FileName: b3948ec22ba34de620e45082c42623ad :Is Crawlable: True :Score: 109
+2014-02-21 13:51:39,275 Copied: http://www.pepsistore.com/proddetail.asp?prod=2014 :FileName: 454b042b9a6b125e7b2080c853973db8 :Is Crawlable: True :Score: 103
+2014-02-21 13:51:40,292 Copied: http://www.pepsistore.com/proddetail.asp?prod=359 :FileName: 398d8ce36db9236c75532aa6bc3d2f8b :Is Crawlable: True :Score: 107
+2014-02-21 13:51:41,635 Copied: http://www.pepsistore.com/proddetail.asp?prod=837 :FileName: c53313f83dc028fe4b6b1b8d382906f1 :Is Crawlable: True :Score: 108
+2014-02-21 13:51:44,543 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU4402 :FileName: f626931494852b471c08f443cf4b4712 :Is Crawlable: True :Score: 109
+2014-02-21 13:51:45,802 Copied: http://www.pepsistore.com/proddetail.asp?prod=PLU641 :FileName: 9761415046593e78202c1db6a7088f4f :Is Crawlable: True :Score: 109
+2014-02-21 13:51:47,260 Copied: http://www.pepsistore.com/proddetail.asp?prod=833 :FileName: 3e3a76a99cd35dfda9220df65a1e4b40 :Is Crawlable: True :Score: 108
+2014-02-21 13:51:48,825 Copied: http://www.pepsistore.com/proddetail.asp?prod=835 :FileName: 8ae250bb3c00bdd19c7fff45e756bd45 :Is Crawlable: True :Score: 108
+2014-02-21 13:51:49,944 Copied: http://www.pepsistore.com/proddetail.asp?prod=586 :FileName: afd1a1ff4a5b9624091c88ee3834196b :Is Crawlable: True :Score: 107
+2014-02-21 13:51:50,951 Copied: http://www.pepsistore.com/proddetail.asp?prod=61 :FileName: 0e2fd65f0216f55ce2e814f69eee7018 :Is Crawlable: True :Score: 109
+2014-02-21 13:51:52,075 Copied: http://www.pepsistore.com/proddetail.asp?prod=489 :FileName: 48c9f00ed2c582e144e9600e5bbf4a85 :Is Crawlable: True :Score: 109
+2014-02-21 13:51:53,088 Copied: http://www.pepsistore.com/proddetail.asp?prod=751 :FileName: 83cb6975992d6b0d3e0feaba827aa262 :Is Crawlable: True :Score: 110
+2014-02-21 13:51:53,984 Copied: http://www.pepsistore.com/proddetail.asp?prod=794 :FileName: 13998a9eecf1f249e601a20eaaa24968 :Is Crawlable: True :Score: 108
+2014-02-21 13:51:54,892 Copied: http://www.pepsistore.com/proddetail.asp?prod=750 :FileName: 19a32ccb84d621c4105842c5227d26fe :Is Crawlable: True :Score: 105
+2014-02-21 13:51:56,266 Copied: http://www.pepsistore.com/proddetail.asp?prod=795 :FileName: 7d9c8e2a17c16c025fe336e076bbda2f :Is Crawlable: True :Score: 107
+2014-02-21 13:51:59,956 Copied: http://www.pepsistore.com/products.asp?pg=2 :FileName: 32fad0e6c906979d059e8d61079fadce :Is Crawlable: True :Score: 361
+2014-02-21 13:52:00,871 Copied: http://www.pepsistore.com/products.asp?cat=52 :FileName: 23ba29bf3ad5b6ea9091275f911bb4f2 :Is Crawlable: True :Score: 103
+2014-02-21 13:52:02,664 Copied: http://www.pepsistore.com/products.asp?cat=25 :FileName: aca55ffa0e5c383789b090678ef691cd :Is Crawlable: True :Score: 252
+2014-02-21 13:52:03,453 Copied: http://www.pepsistore.com/products.asp?cat=44 :FileName: 7fd7b795f9aa46a46e75b0a394ee388c :Is Crawlable: True :Score: 108
+2014-02-21 13:52:04,795 Copied: http://www.pepsistore.com/products.asp?cat=15 :FileName: 6d65b20eb07dd78cc4e52caaaaabfacf :Is Crawlable: True :Score: 216
+2014-02-21 13:52:05,592 Copied: http://www.pepsistore.com/products.asp?cat=17 :FileName: 5f25a46777da1dd52f85391e10ccce22 :Is Crawlable: True :Score: 103
+2014-02-21 13:52:06,378 Copied: http://www.pepsistore.com/products.asp?cat=40 :FileName: 02ead1cf3bd417217e0f6464dea9a0e4 :Is Crawlable: True :Score: 105
+2014-02-21 13:52:07,164 Copied: http://www.pepsistore.com/products.asp?cat=2 :FileName: 545052de93de24972447993771ce6049 :Is Crawlable: True :Score: 205
+2014-02-21 13:52:08,068 Copied: http://www.pepsistore.com/products.asp?cat=26 :FileName: 416f656438d3ee14a0e362742a032797 :Is Crawlable: True :Score: 206
+2014-02-21 13:52:08,874 Copied: http://www.pepsistore.com/products.asp?cat=8 :FileName: f5ce92d5524f20bc44985befe1b356f1 :Is Crawlable: True :Score: 113
+2014-02-21 13:52:10,112 Copied: http://www.pepsistore.com/products.asp?cat=48 :FileName: 47cd5bb8f6a4c813f56122c6d904c72b :Is Crawlable: True :Score: 228
+2014-02-21 13:52:10,805 Copied: http://www.pepsistore.com/products.asp?cat=22 :FileName: af45031ed02b246bde98b5183918016b :Is Crawlable: True :Score: 108
+2014-02-21 13:52:14,829 Copied: http://www.pepsistore.com/products.asp?cat=4 :FileName: a98cc73c90269f2b12400315c5a6ef42 :Is Crawlable: True :Score: 120
+2014-02-21 13:52:19,079 Copied: http://www.pepsistore.com/products.asp?cat=27 :FileName: 517b6c1b052312ef4c3c1fa5f7298411 :Is Crawlable: True :Score: 114
+2014-02-21 13:52:20,118 Copied: http://www.pepsistore.com/products.asp?cat=5 :FileName: dbe2eb1c91ed1ee8b3813119f2287494 :Is Crawlable: True :Score: 114
+2014-02-21 13:52:21,022 Copied: http://www.pepsistore.com/products.asp?cat=6 :FileName: e7831807ba141060e2a00f6cd87d09c1 :Is Crawlable: True :Score: 106
+2014-02-21 13:52:21,957 Copied: http://www.pepsistore.com/products.asp?cat=34 :FileName: 6ebc70c3a47e6132cf31c9c206da28ca :Is Crawlable: True :Score: 114
+2014-02-21 13:52:23,191 Copied: http://www.pepsistore.com/products.asp?cat=7 :FileName: 9c8907733c5b48fc00fad3e467240383 :Is Crawlable: True :Score: 105
+2014-02-21 13:52:24,578 Copied: http://www.pepsistore.com/products.asp?cat=32 :FileName: 56667c0ce161daaf0fa3ce7a778cbb2f :Is Crawlable: True :Score: 109
+2014-02-21 13:52:25,588 Copied: http://www.pepsistore.com/products.asp?cat=9 :FileName: 1d5353b73ca5beb9840aa5d169e3de5a :Is Crawlable: True :Score: 124
+2014-02-21 13:52:26,635 Copied: http://www.pepsistore.com/products.asp?cat=28 :FileName: f73eb18eb96a3d80ea5a1bfc4301d81c :Is Crawlable: True :Score: 105
+2014-02-21 13:52:27,803 Copied: http://www.pepsistore.com/products.asp?cat=21 :FileName: d330f00004ae68b72f0418c01a4da2bf :Is Crawlable: True :Score: 208
+2014-02-21 13:52:28,592 Copied: http://www.pepsistore.com/products.asp?cat=14 :FileName: e35e9e1d938ca96bbe2441f54943fa8d :Is Crawlable: True :Score: 209
+2014-02-21 13:52:29,292 Copied: http://www.pepsistore.com/products.asp?cat=49 :FileName: 2a18239d930af091d38d8fb1646ef8ae :Is Crawlable: True :Score: 112
+2014-02-21 13:52:30,168 Copied: http://www.pepsistore.com/products.asp?cat=50 :FileName: b0c1c3736b99ef51b10a0de4bce021e4 :Is Crawlable: True :Score: 104
+2014-02-21 13:52:31,494 Copied: http://www.pepsistore.com/products.asp?cat=38 :FileName: 1a83cc42667b7fc6b1f78fb36fbdac27 :Is Crawlable: True :Score: 105
+2014-02-21 13:52:33,226 Copied: http://www.pepsistore.com/products.asp?cat=10 :FileName: 070fcf2bd35a52c64d34986560e261cf :Is Crawlable: True :Score: 242
+2014-02-21 13:52:34,128 Copied: http://www.pepsistore.com/products.asp?cat=35 :FileName: 4515e2fa5ff844a018ece6143d36f789 :Is Crawlable: True :Score: 105
+2014-02-21 13:52:35,250 Copied: http://www.pepsistore.com/products.asp?cat=23 :FileName: 376a3995100b7247e5213fa29ef8e2ec :Is Crawlable: True :Score: 113
+2014-02-21 13:52:37,075 Copied: http://www.pepsistore.com/products.asp?cat=42 :FileName: 7550d7fc6a71083e19ddac2c343c65d3 :Is Crawlable: True :Score: 119
+2014-02-21 13:52:38,273 Total Files Downloaded: 168 :Total  errors: 6 :Total Files size: 0

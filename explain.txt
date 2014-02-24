@@ -1,0 +1,24 @@
+--Crawler.py file is a python executable which crawls in the web based on the search query. 
+--It reads the search string and number of pages to download from the user and returns the relevant URLs crawled by the crawler. 
+--At the first step, it gets top 10 results from google search engine and prioritize it based on the count of search strings. 
+--getPagePriority method is used to return the score of particular page. 
+--Crawler will download all the relevant pages into the Downloads folder. 
+--We have used md5 hashing technique to identify each URL in downloads directory.To identify if the crawler has already downloaded, we have used dictionary. Key is the md5 encryption of URL and value is the urlobject. 
+--Before downloading any file, crawler checks in the dictionary and if it exists, it will ignore the link. After each file is parsed, it is inserted into a priority queue 'urlList'.
+
+-----Main Functions
+--checkCrawlable method checks robot.txt and sees of the URL crawlable
+--getURLFromGoogle gets top 10 search results 
+--parseurl store in Heap and Dictnoary the top results in Heap and Dictonary and also download pages
+--getPage Downloads Page of given URL
+--getURL gets all the URL in a given page
+--getPagePriority gets a negative Score for based on search  (if(count)count=count+100)*-1
+
+
+----Known errors
+When seeing the priority comments section of HTML is not ignored
+Just implemented file size not much testing done
+Downloads and console.log to be deleted before running else the will be merged
+ 
+
+
